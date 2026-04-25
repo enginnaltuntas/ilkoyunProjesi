@@ -1,6 +1,6 @@
 # İlk Oyun Projem
 
-Bu benim Unity ile geliştirdiğim ilk oyun projem!
+Unity ile geliştirdiğim ilk oyun projem!
 
 ## Oyunun Amacı
 "Küpü engellere çarpmadan ilerletmek."
